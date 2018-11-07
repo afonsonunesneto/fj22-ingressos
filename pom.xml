@@ -17,16 +17,6 @@
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
 
-<project>
-					<!--	restante	omitido...	-->
-					<developers>
-									<developer>
-													<name>Afonso</name>
-													<email>nunesafonsoneto@gmail.com</email>
-									</developer>
-					</developers>
-	</project>
-
 
     <dependencies>
 
@@ -157,7 +147,7 @@
     
     <developers>
     	<developer>
-    		<name> Rafael P.</name>
+    		<name> Nunes.</name>
     		<email> jdoe@example.com </email>
     	</developer>
     </developers>
